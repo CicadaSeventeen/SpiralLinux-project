@@ -14,3 +14,4 @@
 
 ## Plan to do
 1. removing nvidia proprietary
+2. better `snapd` support
