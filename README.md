@@ -11,4 +11,5 @@
 ## Changes to do
 1. dropping `/tmp` in btrfs subvol mount point
 2. removing unwanted nvidia packages
-3. droping unnecessary `xorg-xserver-input-*` packages
+3. dropping unnecessary `xorg-xserver-input-*` packages
+4. adding dbus user session package
