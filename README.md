@@ -13,4 +13,4 @@
 5. adding task package if possible
 
 ## Plan to do
-1. removing nvidia preference 
+1. removing nvidia proprietary
