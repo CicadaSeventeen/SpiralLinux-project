@@ -6,10 +6,11 @@
 #### Forked from https://github.com/SpiralLinux/SpiralLinux-project
 
 ## Changes done
-
-
-## Changes to do
 1. dropping `/tmp` in btrfs subvol mount point
 2. removing unwanted nvidia packages
 3. dropping unnecessary `xorg-xserver-input-*` packages
 4. adding dbus user session package
+5. adding task package if possible
+
+## Changes to do
+1. removing nvidia preference 
