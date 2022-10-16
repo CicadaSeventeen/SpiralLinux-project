@@ -15,3 +15,4 @@
 ## Plan to do
 1. removing nvidia proprietary
 2. better `snapd` support
+3. Nvidia driver with multi kernel support (half done)
