@@ -6,7 +6,7 @@
 #### Forked from https://github.com/SpiralLinux/SpiralLinux-project
 
 ## Changes have done
-1. removing `/tmp` in btrfs subvol mount point
+1. removing hplip-gui
 2. removing unwanted nvidia packages
 3. removing unnecessary `xorg-xserver-input-*` packages
 4. adding dbus user session package
@@ -14,8 +14,6 @@
 
 ## Plan to do
 1. removing nvidia proprietary
-2. undo `removing /tmp in btrfs subvol mount point`
-3. removing hplip-gui
 
 ## Longterm plan
 1. better `snapd` support
