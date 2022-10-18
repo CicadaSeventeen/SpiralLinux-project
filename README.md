@@ -14,6 +14,9 @@
 
 ## Plan to do
 1. removing nvidia proprietary
-2. better `snapd` support
-3. Nvidia driver with multi kernel support (half done)
-4. undo `removing /tmp in btrfs subvol mount point`
+2. undo `removing /tmp in btrfs subvol mount point`
+3. removing hplip-gui
+
+## Longterm plan
+1. better `snapd` support
+2. Nvidia driver with multi kernel support (half done)
