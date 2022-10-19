@@ -11,6 +11,8 @@
 3. removing unnecessary `xorg-xserver-input-*` packages
 4. adding dbus user session package
 5. adding task package if possible
+6. adding `noto-fonts`
+
 
 ## Plan to do
 1. removing nvidia proprietary
