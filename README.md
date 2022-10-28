@@ -10,8 +10,9 @@
 2. removing unwanted nvidia packages
 3. removing unnecessary `xorg-xserver-input-*` packages
 4. adding dbus user session package
-5. adding task package if possible
-6. adding `noto-fonts`
+5. adding `noto-fonts`
+6. adding `thin-provisioning-tools`
+7. removing nonfree drivers
 
 
 ## Plan to do
